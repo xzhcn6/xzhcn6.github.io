@@ -32,9 +32,6 @@ Edit the site attributes in *_config.yml* and edit the various entries in *_incl
 
 ## Thanks 
 
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
-
-
 ## Copyright & License
 
 Copyright (C) 2015 - Released under the MIT License.
