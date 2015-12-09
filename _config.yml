@@ -11,7 +11,7 @@ gems: [jekyll-paginate]
 
 # edit here to achieve your personal greatness
 url: http://snakeshawn.github.io/
-baseurl: /sustain/
+baseurl: /
 title: Zhang Xu
 author: Zhang Xu
 description: Personal blog and resume
