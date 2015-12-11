@@ -1,5 +1,5 @@
 
-# Sustain
+# My Website.
 
 Personal blog built with [Bootstrap](http://getbootstrap.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
 hosted in [Github pages](https://pages.github.com/).
@@ -31,9 +31,6 @@ Simply clone/fork this repository, and then run `jekyll serve` inside the direct
 Edit the site attributes in *_config.yml* and edit the various entries in *_includes/* and *_posts/*.
 
 ## Thanks 
-
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
-
 
 ## Copyright & License
 
