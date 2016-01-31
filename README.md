@@ -5,11 +5,6 @@ Personal blog built with [Bootstrap](http://getbootstrap.com/), powered by [Jeky
 hosted in [Github pages](https://pages.github.com/).
 
 
-## View the live demo
-
-[Sustain Live Demo](https://biomadeira.github.io/sustain)
-
-
 ## Screenshots
 
 **Home page**
