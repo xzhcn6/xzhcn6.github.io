@@ -10,13 +10,13 @@ safe: true
 gems: [jekyll-paginate]
 
 # edit here to achieve your personal greatness
-url: http://snakeshawn.github.io/
+url: http://me.xuzhang.work/
 baseurl: /
 title: Zhang Xu
 author: Zhang Xu
 description: Personal blog and resume
 avatar: profile.png
-email: snakeshawnzhang@gmail.com
+email: xzhcn6@gmail.com
 github: snakeshawn
 twitter: Snake_Shawn
 linkedin: xu-zhang-613b33b7
