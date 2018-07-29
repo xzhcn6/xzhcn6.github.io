@@ -11,7 +11,7 @@ gems: [jekyll-paginate]
 
 # edit here to achieve your personal greatness
 url: http://me.xuzhang.work/
-baseurl: /
+baseurl: http://me.xuzhang.work/
 title: Zhang Xu
 author: Zhang Xu
 description: Personal blog and resume
